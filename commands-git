@@ -1,0 +1,8 @@
+les commandes :
+git.add
+  commit
+git push
+et pour cloner :
+git clone
+et pour pull :
+git pull
